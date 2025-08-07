@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/MultiBankGroup/.github/edit/main/profile/assets/banner.png" alt="Multibank.io Banner" width="800"/>
+</p>
+
+
 # 💳 Multibank.io
 
 Welcome to **Multibank.io**, a modern digital finance platform focused on building secure, scalable, and innovative multi-bank solutions using blockchain and Web3 technologies.
