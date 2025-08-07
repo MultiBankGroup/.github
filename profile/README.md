@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MultiBankGroup/.github/edit/main/profile/assets/banner.png" alt="Multibank.io Banner" width="800"/>
+  <img src="./assets/banner.png" alt="Multibank.io Banner" width="800"/>
 </p>
 
 
